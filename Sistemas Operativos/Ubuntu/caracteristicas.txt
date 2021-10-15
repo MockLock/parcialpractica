@@ -1,0 +1,1 @@
+Sistema operativo de software libre y codigo abierto, distribucion basada en debian, puede usarse tanto en computadores como en servidores, orientado a los usuarios promedio.
